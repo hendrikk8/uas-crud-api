@@ -1,0 +1,27 @@
+{
+  "kind": "collectionType",
+  "collectionName": "mobils",
+  "info": {
+    "singularName": "mobil",
+    "pluralName": "mobils",
+    "displayName": "mobil"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "NO": {
+      "type": "string"
+    },
+    "Brand": {
+      "type": "string"
+    },
+    "Model": {
+      "type": "string"
+    },
+    "Price": {
+      "type": "biginteger"
+    }
+  }
+}
